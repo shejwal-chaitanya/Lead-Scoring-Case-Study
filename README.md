@@ -10,7 +10,7 @@ X Education company sell online courses to professionals and students. X Educati
 To solve this classification problem we have used the Logistic Regression Algorithm
 
 ## Approach
-### 1. Data Importing
+  1. Data Importing
 ### 2. Data Cleaning and Preprocessing
 ### 3. Exploratory Data Analysis - Univariate and Bivariate Analysis
 ### 4. Model Building
